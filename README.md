@@ -1,6 +1,8 @@
 # Hinduatan-Unilever-Dataset
 Machine Learning Internship
 
+# Datasets and solutions
+
 Solution to module 1 : https://rishi2902.medium.com/stock-price-analysis-via-python-using-hindustan-unilever-limited-dataset-1-1913abd791bc
 
 Solution to module 2 : https://rishi2902.medium.com/stock-price-analysis-via-python-using-hindustan-unilever-limited-dataset-2-f87e2ede987
