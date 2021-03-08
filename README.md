@@ -11,4 +11,4 @@ Solution to module 4 : https://rishi2902.medium.com/stock-price-analysis-via-pyt
 
 Solution to module 5 : https://medium.com/codex/stock-price-analysis-via-python-using-hindustan-unilever-limited-dataset-5-39cf50ec7bc0
 
-Solution to module 6 : https://medium.com/codex/stock-price-analysis-via-python-using-hindustan-unilever-limited-dataset-5-39cf50ec7bc0
+Solution to module 6 : https://medium.com/codex/stock-price-analysis-via-python-using-hindustan-unilever-limited-dataset-6-87f7555e822a
