@@ -1,5 +1,4 @@
 # Stock Price Analysis 
-Machine Learning Internship
 
 # Datasets and solutions
 
